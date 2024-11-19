@@ -1,0 +1,21 @@
+
+header .title1 {
+    color: var(--text-secondary)
+}
+
+header .title2 {
+    color: var(--text-primary);
+}
+
+nav, nav ul {
+    display: flex;
+    align-items: center;
+}
+
+ul {
+    justify-content: space-between;
+}
+li {
+    list-style: none;
+    padding: .85rem;
+}

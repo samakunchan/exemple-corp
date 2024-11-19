@@ -1,0 +1,28 @@
+:root {
+    --primary-100: #def9fa;
+    --primary-200: #bef3f5;
+    --primary-300: #9dedf0;
+    --primary-400: #7de7eb;
+    --primary-500: #5ce1e6;
+    --primary-900: #33bbcf;
+    --linear-gradient : linear-gradient(
+        157.81deg,
+        var(--primary-100) -43.27%,
+        var(--primary-200) -21.24%, 
+        var(--primary-300) 12.19%, 
+        var(--primary-400) 29.82%, 
+        var(--primary-500) 51.94%, 
+        var(--primary-900) 90.29%
+    );
+    --linear-gradient-card: linear-gradient(
+        -168.39deg,
+        #ffffff -278.56%,
+        #6d6d6d -78.47%,
+        #11101d 91.61%
+    );
+    --secondary: white;
+    --bg-color: #00040f;
+    --text-primary: var(--primary-500);
+    --text-secondary: var(--secondary);
+    --font-family: "Poppins", sans-serif;
+}
