@@ -1,3 +1,4 @@
-@import url('styles/abstracts');
-@import url('styles/base');
-@import url('styles/layout');
+@import url('./abstracts');
+@import url('./base');
+@import url('./components');
+@import url('./layout');
